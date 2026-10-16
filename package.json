@@ -29,12 +29,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hyperfocalHQ/person-name-parser.git"
+    "url": "https://github.com/madeleineostoja/person-name-parser.git"
   },
   "bugs": {
-    "url": "https://github.com/hyperfocalHQ/person-name-parser/issues"
+    "url": "https://github.com/madeleineostoja/person-name-parser/issues"
   },
-  "homepage": "https://github.com/hyperfocalHQ/person-name-parser",
+  "homepage": "https://github.com/madeleineostoja/person-name-parser",
   "devDependencies": {
     "@types/node": "^24.6.2",
     "@vitest/coverage-v8": "^3.2.4",

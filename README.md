@@ -2,8 +2,8 @@
 
 [![npm version](https://flat.badgen.net/npm/v/person-name-parser)](https://www.npmjs.com/package/person-name-parser)
 [![bundle size](https://flat.badgen.net/bundlephobia/minzip/person-name-parser)](https://bundlephobia.com/package/person-name-parser)
-[![build status](https://flat.badgen.net/github/checks/hyperfocalHQ/person-name-parser)](https://github.com/hyperfocalHQ/person-name-parser/actions)
-[![license](https://flat.badgen.net/github/license/hyperfocalHQ/person-name-parser)](https://github.com/hyperfocalHQ/person-name-parser/blob/main/LICENSE.md)
+[![build status](https://flat.badgen.net/github/checks/madeleineostoja/person-name-parser)](https://github.com/madeleineostoja/person-name-parser/actions)
+[![license](https://flat.badgen.net/github/license/madeleineostoja/person-name-parser)](https://github.com/madeleineostoja/person-name-parser/blob/main/LICENSE.md)
 
 A lightweight utility that attempts to parses a person's full name into its constituent parts (prefix, first name, middle name, last name, suffix) with a confidence rating.
 
@@ -225,4 +225,4 @@ See [LICENSE.md](LICENSE.md) for details.
 
 ## Contributing
 
-Issues and pull requests are welcome! Please feel free to contribute at [github.com/hyperfocalHQ/person-name-parser](https://github.com/hyperfocalHQ/person-name-parser).
+Issues and pull requests are welcome! Please feel free to contribute at [github.com/madeleineostoja/person-name-parser](https://github.com/madeleineostoja/person-name-parser).
